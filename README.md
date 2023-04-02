@@ -1,5 +1,6 @@
-# aspendos-system
-♆ A S P E N D O S  Sunucusunda kullandığım botlar. ( Keevzinde sistemleri bunlardır ayrıca.)
+# vivo-system
+Aspendos ve Vivo  sunucusunda kullanılan  botlar
+
 ## Paylaşım Tarihi
 Ücretsiz ve ücretli hali şeklinde 2 paket yaptım ücretsiz hali githubta yayınlanacak.
 
