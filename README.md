@@ -1,7 +1,7 @@
 # aspendos-system
 ♆ A S P E N D O S  Sunucusunda kullandığım botlar. ( Keevzinde sistemleri bunlardır ayrıca.)
 ## Paylaşım Tarihi
-Bu Altyapılar yakın zamanda paylaşılmayacaktır çok sonra paylaşacağım PM2 sistemine geçtim.
+Ücretsiz ve ücretli hali şeklinde 2 paket yaptım ücretsiz hali githubta yayınlanacak.
 
 
 ## Görseller
@@ -18,5 +18,5 @@ Bu Altyapılar yakın zamanda paylaşılmayacaktır çok sonra paylaşacağım P
 
 
 
-## Bana Botta yardım eden asalak  bütün işi bot yapmak olan  ama çok akıllı developerlar
-Burjuva#0001
+## Bana Botta yardım eden asalak    ama çok akıllı developerlar
+burjuva#0987
