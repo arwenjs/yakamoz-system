@@ -1,4 +1,4 @@
-# vivo-system
+# aspendos-system
 Aspendos ve Vivo  sunucusunda kullanılan  botlar
 
 ## Paylaşım Tarihi
