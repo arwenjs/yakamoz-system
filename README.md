@@ -3,7 +3,7 @@ Aspendos ve Vivo  sunucusunda kullanılan  botlar
 
 ## Paylaşım Tarihi
 Ücretsiz ve ücretli hali şeklinde 2 paket yaptım ücretsiz hali githubta yayınlanacak.
-
+# 08.06.2023
 
 ## Görseller
 ![image](https://user-images.githubusercontent.com/77726399/228127619-73fed238-8826-488d-b239-a8553dc7ba94.png)
