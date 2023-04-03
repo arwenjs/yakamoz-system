@@ -21,3 +21,4 @@ Aspendos ve Vivo  sunucusunda kullanılan  botlar
 
 ## Bana Botta yardım eden asalak    ama çok akıllı developerlar
 burjuva#0987
+Oliwjer#1542
