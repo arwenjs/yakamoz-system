@@ -14,6 +14,8 @@ Aspendos ve Vivo  sunucusunda kullanılan  botlar
 ![image](https://user-images.githubusercontent.com/77726399/229347360-5144b201-36e9-43d0-808d-56216265d976.png)
 ![image](https://user-images.githubusercontent.com/77726399/229347374-1c3b9fc6-cff8-486b-9a1e-e1b62e7838d0.png)
 ![image](https://user-images.githubusercontent.com/77726399/229347383-c8c87678-138b-4f31-88cb-6c5a96c06ae7.png)
+![image](https://user-images.githubusercontent.com/77726399/229548556-778ac3ec-b7cb-454f-bf3f-8d5ad971ff44.png)
+
 
 
 
