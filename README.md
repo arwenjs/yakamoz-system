@@ -15,6 +15,8 @@ Aspendos ve Vivo  sunucusunda kullanılan  botlar
 ![image](https://user-images.githubusercontent.com/77726399/229347374-1c3b9fc6-cff8-486b-9a1e-e1b62e7838d0.png)
 ![image](https://user-images.githubusercontent.com/77726399/229347383-c8c87678-138b-4f31-88cb-6c5a96c06ae7.png)
 ![image](https://user-images.githubusercontent.com/77726399/229548556-778ac3ec-b7cb-454f-bf3f-8d5ad971ff44.png)
+![image](https://user-images.githubusercontent.com/77726399/232764294-96744b16-7e96-46b2-89a6-d00230269dbf.png)
+![image](https://user-images.githubusercontent.com/77726399/232764334-8ce66c07-3799-45ea-b03c-24a2d2cdb359.png)
 
 
 
@@ -23,3 +25,5 @@ Aspendos ve Vivo  sunucusunda kullanılan  botlar
 burjuva#0987
 Oliwjer#1542
 Ramal.#0001
+Weatrix?
+#1927
