@@ -4,6 +4,7 @@ Aspendos ve Vivo  sunucusunda kullanılan  botlar
 ## V14 Sürümüne güncellendi.
 selam bu repoyu çok önce açmıştım, fakat unutmuşum botu V14 sürümüne güncelledim ve buraya da atmaktan vazgeçtim bu yüzden.
 
+Botu geliştirmeyide bıraktım güncelledikten sonra farklı bi bot kodluyorum.
 
 
 ## Görseller
